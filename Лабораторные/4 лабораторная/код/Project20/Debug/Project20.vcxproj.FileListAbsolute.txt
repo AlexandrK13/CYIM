@@ -1,0 +1,4 @@
+C:\Users\class\source\repos\Project20\Debug\Project20.exe
+C:\Users\class\source\repos\Project20\Debug\Project20.pdb
+E:\6 семестр\Земцов\лабы\4\Project20\Debug\Project20.exe
+E:\6 семестр\Земцов\лабы\4\Project20\Debug\Project20.pdb
